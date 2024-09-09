@@ -27,6 +27,11 @@ This notebook focuses on transforming raw data into meaningful features and buil
 - **Model Evaluation**: Accuracy, precision, recall, and ROC-AUC metrics are computed to assess model performance.
 - **Hyperparameter Tuning**: Optimizing the model through techniques such as cross-validation.
 
+## Dataset
+
+The dataset used for this analysis can be found on Kaggle:
+[Credit Risk Dataset](https://www.kaggle.com/datasets/adithiav/credit-risk/data)
+
 ## How to Use
 
 1. Clone the repository:
@@ -49,3 +54,4 @@ The predictive model shows strong performance in distinguishing clients with pay
 ## Conclusion
 
 This project demonstrates a complete workflow from data exploration to model deployment for credit risk prediction. By identifying key features and building an optimized logistic regression model, it helps in making data-driven decisions for managing credit risk.
+
